@@ -9,19 +9,32 @@ After Authorization Program is ready to run.
 
 # Instructions For Running From Exe
 Download exe from releases tab.
-Follow Instructions shown in installation Guid.txt file.
+Follow Instructions shown in Installation Guid.txt file.
 
 # Screenshots
-Place the Client_secrets.jsonfile in installation folder of the program.
-Default Location is : C:\YTSpammerPurge
+Run the downloaded Setup File from Releases tab and follow instruction Guid to get your Api Id , so that program can access your youtube Account
+(Generating an Api key is required for the program to work correctly).
 
 ![Sc1](https://user-images.githubusercontent.com/104684690/225602235-9f2d920c-53e6-4cfe-93ee-722f47eb690b.png)
 
-Your Channel name and id Will be shown to you.
+Place the Client_secrets.jsonfile in installation folder of the program.
+Default Location is : C:\YTSpammerPurge
+
+![Screenshot 2023-03-16 161742](https://user-images.githubusercontent.com/104684690/226246130-cff9d5da-e34d-4408-b41d-1037fbe781ec.png)
+
+Select your channel , On which you have created the Api Id.
+
+![accounts](https://user-images.githubusercontent.com/104684690/226247692-60c3e673-471f-4126-842b-60d3afd8d056.png)
+
+Give All the Permissions required for the Application.  
+
+![Screenshot 2023-03-20 100910](https://user-images.githubusercontent.com/104684690/226248481-ae1438ac-d348-4a36-b31a-ffb6d44e9a5d.png)
+
+Your Channel name and id Will be shown to you. Eg. Travel-Relax is a channel name.
 
 ![Screenshot 2023-03-16 161939](https://user-images.githubusercontent.com/104684690/225602437-4d78bc5d-8273-4c1d-8e21-d5a5524b71e0.png)
 
-Select any one option Eg.To scan a video choose option 1 and enter video Url Link
+Select any one option Eg.To scan a video choose option '1' and enter video Url Link.
 
 ![Screenshot 2023-03-16 161957](https://user-images.githubusercontent.com/104684690/225602468-563a05f3-2334-4760-a060-0fdaca333f91.png)
 
