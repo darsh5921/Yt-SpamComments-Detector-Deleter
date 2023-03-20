@@ -50,3 +50,6 @@ You will be shown with scanned comments in that video.
 Several options to Delete, Report, Hold For Review, or Do Nothing with the scanned Comments of the Video.
 
 ![Screenshot 2023-03-16 163101](https://user-images.githubusercontent.com/104684690/225602574-5da043ef-5114-43b4-b4ca-9987a93355bb.png)
+
+# Link 
+Download Here: https://github.com/darsh5921/Yt-SpamComments-Detector-Deleter/releases
