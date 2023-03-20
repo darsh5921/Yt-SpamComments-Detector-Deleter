@@ -17,7 +17,7 @@ Run the downloaded Setup File from Releases tab and follow instruction Guid to g
 
 ![Sc1](https://user-images.githubusercontent.com/104684690/225602235-9f2d920c-53e6-4cfe-93ee-722f47eb690b.png)
 
-Place the Client_secrets.jsonfile in installation folder of the program.
+Place the Client_secrets.json file in installation folder of the program.
 Default Location is : C:\YTSpammerPurge
 
 ![Screenshot 2023-03-16 161742](https://user-images.githubusercontent.com/104684690/226246130-cff9d5da-e34d-4408-b41d-1037fbe781ec.png)
