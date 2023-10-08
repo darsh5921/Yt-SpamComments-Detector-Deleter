@@ -11,6 +11,10 @@ After Authorization Program is ready to run.
 Download exe from releases tab.
 Follow Instructions shown in Installation Guid.txt file.
 
+# Video Demo
+
+https://www.youtube.com/watch?v=DdAmyjMUFJk&list=PLKc7PFu7bC7fj0hSmO-oYLcBJtrxbCFQi
+
 # Screenshots
 Run the downloaded Setup File from Releases tab and follow instruction Guid to get your Api Id , so that program can access your youtube Account
 (Generating an Api key is required for the program to work correctly).
